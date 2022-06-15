@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class Bar implements Servise {
-    ArrayList<String> foods = new ArrayList<>();
+
     public Bar(){
         foods.add("Виски");
         foods.add("Пиво");

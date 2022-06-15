@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4fd5c48-272b-461f-bf0b-d6e2e0aaefb9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Caffe.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Caffe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Caffe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/FoodTruck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FoodTruck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Servise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Servise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Bar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Bar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Caffe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Caffe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FoodTruck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FoodTruck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Servise.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -87,15 +87,8 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Caffe.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
