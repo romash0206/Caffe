@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        Servise caffe = new Caffe();
+        Caffe caffe = new Caffe();
         System.out.println(caffe.cook("Блинчики"));
 
         Servise bar = new Bar();
