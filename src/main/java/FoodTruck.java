@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FoodTruck implements Servise{
-    private List<String> foods = new ArrayList<>();
+
     public FoodTruck(){
         foods.add("Крылышки гриль");
         foods.add("Хот-дог");

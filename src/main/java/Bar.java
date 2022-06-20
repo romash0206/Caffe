@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Bar implements Servise {
-    private List<String> foods = new ArrayList<>();
+
     public Bar(){
         foods.add("Виски");
         foods.add("Пиво");
